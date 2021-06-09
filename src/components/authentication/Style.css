@@ -1,0 +1,12 @@
+.board{
+    color: rgb(236, 196, 17);
+}
+
+.SubButton{
+    margin-left: 25%;
+}
+
+.RegisterMethodes{
+    display: flex;
+    flex-direction: row;
+}

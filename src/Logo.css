@@ -1,0 +1,31 @@
+.Logo__and__slogan{
+    display: flex;
+    flex-direction: column;
+}
+
+.Logo__complete{
+    margin-left: 13%;
+}
+
+.Logo__png{
+    width: 60px;
+    margin-left: 23%;
+}
+
+.Logo__name{
+
+}
+
+.Slogan{
+    margin-top: -10px;
+    font-size: smaller;
+}
+
+.all{
+    display: flex;
+    flex-direction: column;
+}
+
+.addF{
+    margin-left: 42%;
+}

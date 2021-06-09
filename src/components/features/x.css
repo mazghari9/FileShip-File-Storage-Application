@@ -1,0 +1,8 @@
+.file{
+    display: flex;
+    flex-direction: row;
+}
+
+.AreYouSure{
+    text-align: center;
+}
